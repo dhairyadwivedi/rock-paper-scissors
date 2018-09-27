@@ -1,0 +1,61 @@
+body{
+    background-color: #272727;
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+}
+h1{
+    color: #747474;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 55px;
+}
+#message{
+    color: #747474;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+.game{
+    margin-bottom: 20px;
+}
+.choice{
+    background-color: #272727;
+    border: none;
+    margin-left: 20px;
+    margin-right: 55px;
+}
+.fa-hand-rock{
+    color: #ffe400;
+    font-size: 90px;
+}
+.fa-hand-peace{
+    color: #14a76c;
+    font-size: 90px;
+}
+.fa-hand-paper{
+    color: #ff652f;
+    font-size: 90px;
+}
+#score{
+    color: #747474;
+    margin-bottom: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+#winner{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+#reset{
+    background-color: #272727;
+    border: 1px solid #747474;
+    color: #747474;
+    padding: 7px;
+    font-size: 20px;
+    
+}
